@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="bertha_ws:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-android-sdk-auth-userpools:" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-cognitoidp:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-cognitoidentity:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-dynamodb:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-server:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.0.18" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.71" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-webapp:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20180130" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-servlet:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-security:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-s3:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-kms:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-core:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: com.amazonaws:jmespath-java:1.11.228" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.71" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.71" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-servlet:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-client:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-simple:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-xml:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.ion:ion-java:1.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.6.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.6.7" level="project" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.71" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.4.12.v20180830" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:23.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.javalin:javalin:2.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.6.7" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="bertha_ws_main" />
+</module>

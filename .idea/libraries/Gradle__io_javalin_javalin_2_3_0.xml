@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.javalin:javalin:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.javalin/javalin/2.3.0/73836e9cf29f978e47817584f9cee86b5e1f4c09/javalin-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.javalin/javalin/2.3.0/bc4424355f7eaec4423372af9b1363cde9555d10/javalin-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
